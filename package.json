@@ -1,11 +1,10 @@
 {
-  "name": "hover_focus-ok",
+  "name": "square-bracket-notation",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "vite",
-    "build": "vite build"
+    "start": "vite"
   },
   "keywords": [],
   "author": "",
